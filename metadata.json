@@ -1,0 +1,6 @@
+{
+  "name": "IslandHeat",
+  "description": "Discover, upload, share, and view high-quality steam videos and multi-photo creator galleries with ratings, paywalls, custom thumbnails, and responsive search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
